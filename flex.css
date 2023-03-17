@@ -1,0 +1,25 @@
+header{
+    display: flex;
+    background-color: rgb(85, 209, 57);
+}
+.box1{
+    height: 1000px;
+    width: 200px;
+    background-color: aqua;
+}
+.box1:nth-child(1){
+    height: 500px;
+    background-color: brown;
+}
+.box1:nth-child(2){
+    height: 500px;
+    background-color: rgb(3, 3, 13);
+}
+
+
+
+.box2{
+    width: 200px;
+    height: 1000px;
+    background-color: blueviolet;
+}

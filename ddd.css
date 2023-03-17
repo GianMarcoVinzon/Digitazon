@@ -1,0 +1,26 @@
+html{
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Tilt Neon', cursive;
+}
+header{
+    display: flex;
+}
+body{
+    flex-direction: row;
+    display: flex;
+}
+.bar1{
+  padding: 10px;
+    border-bottom: 1px solid grey;
+}
+.bar2{
+   padding: 10px;
+    width: 200px;
+    border-right: 1px solid grey;
+    border-bottom: 1px solid grey;
+}
+main{
+    padding: 10px;
+}
+
