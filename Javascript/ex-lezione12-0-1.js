@@ -16,6 +16,9 @@ map.set('key3','ciao')
 
 map.forEach(iterazione)
 
+
+
+
 console.log('SET');
 
 let set1=new Set()
